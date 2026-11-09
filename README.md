@@ -8,7 +8,6 @@ Side projects:
 - [jimi](https://github.com/Al-Rasin/jimi) - offline voice assistant for my rooted Android phone (Kotlin, llama.cpp, sherpa-onnx)
 - [focus-guard](https://github.com/Al-Rasin/focus-guard) - blocks Shorts/Reels and adult content on Android and macOS
 - [seu-matrimony](https://github.com/Al-Rasin/seu-matrimony) - matrimony app with chat and calls, team project (Flutter, Firebase)
-- [favorite-places](https://github.com/Al-Rasin/favorite-places) - save places with a photo and map location (Flutter, Google Maps)
 
 Usually: Flutter, Dart, Riverpod, GoRouter, Hive, SQLite, Firebase. Kotlin when I need to go deeper into Android.
 
