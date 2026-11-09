@@ -31,7 +31,16 @@ Right now I'm working on **Transcribr**, an offline transcription app for iOS an
 
 ### Tools I use
 
-Flutter · Dart · Riverpod · GetX · GoRouter · Hive · SQLite · Firebase · REST APIs · Kotlin
+**Mobile**<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java" height="40">
+
+**Data and backend**<br>
+<img src="https://skillicons.dev/icons?i=firebase,sqlite" height="40">
+
+**Every day**<br>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman" height="40">
+
+Also: Riverpod, GetX, GoRouter, Hive, REST APIs
 
 ### Find me
 
