@@ -1,49 +1,32 @@
 ## Hi, I'm Al Rasin
 
-Flutter developer from Dhaka. I've spent the last 2.5+ years building mobile apps that people actually use, on both the Play Store and the App Store.
+Flutter & Android developer from Dhaka, Bangladesh. I build mobile apps that real people use, on both the Play Store and the App Store.
 
-I like the parts of an app most people never see: state management, local storage, background audio, start-up time. And sometimes I go too deep, like running speech models on a rooted phone just to see if it works.
+### Currently
 
-### Work
+- **Mobile Application Developer** at [TubeOnAI](https://play.google.com/store/apps/details?id=com.tubeonai.app) (remote): an AI summarizer app for YouTube videos, podcasts and documents with 150k+ users.
+- **Mobile App Development Consultant** at **Pinova Technologies**: building a native Android parental-control app (Kotlin, Jetpack Compose, Firebase) for an EU client.
 
-**[TubeOnAI](https://play.google.com/store/apps/details?id=com.tubeonai.app)** · Software Engineer, Flutter · Apr 2024 - Jun 2026
+### Featured projects
 
-An app that summarizes YouTube videos, podcasts and documents.
-- Moved the whole app from GetX to Riverpod
-- Rewrote local storage with Hive, which made start-up about 20% faster
-- Added GoRouter with deep links that open even from a cold start
-- Built a streaming audio player with background playback and a mini-player
-- Shipped image generation, a podcast creator, quizzes, flashcards and a credit system
+| | Project | What it is |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/Al-Rasin/Al-Rasin/main/assets/transcribr.jpg" width="90"> | **Transcribr** | Offline transcription app for Android and iOS that runs whisper.cpp on the phone. Source is private; [privacy policy](https://al-rasin.github.io/transcribr-legal/). |
+| <img src="https://raw.githubusercontent.com/Al-Rasin/Al-Rasin/main/assets/tvuart.jpg" width="90"> | [TV UART Tool](https://github.com/Al-Rasin/tvuarttool-releases) | Android app for repairing TV boxes over UART (USB, Bluetooth, Wi-Fi) with an AUTO FIX for common boot problems. |
+| <img src="https://raw.githubusercontent.com/Al-Rasin/jimi/main/screenshots/chat.jpg" width="90"> | [Jimi](https://github.com/Al-Rasin/jimi) | Offline voice assistant for a rooted Android phone: wake word, speech to text and small local LLMs. Kotlin, llama.cpp, sherpa-onnx. |
+| | [Focus Guard](https://github.com/Al-Rasin/focus-guard) | Self-control tool for rooted Android and macOS: adds friction to Shorts and Reels and blocks adult content. |
 
-**[HelloTask](https://play.google.com/store/apps/details?id=com.robotlogistics.callrobot)** · Flutter Intern · Sep 2023 - Mar 2024
+### Live apps
 
-On-demand home help in Dhaka. Worked on search, live location, localization and the sign-up flow.
+- **TubeOnAI**: [Google Play](https://play.google.com/store/apps/details?id=com.tubeonai.app) · [App Store](https://apps.apple.com/us/app/tubeonai-summarize-anything/id6451212292)
+- **HelloTask**: [Google Play](https://play.google.com/store/apps/details?id=com.robotlogistics.callrobot)
 
-### Things I've built
+### Tech stack
 
-| Project | What it is |
-|---|---|
-| [jimi](https://github.com/Al-Rasin/jimi) | Offline voice assistant for my rooted Android phone. Wake word, speech to text and small local LLMs, all on the phone. Kotlin, llama.cpp, sherpa-onnx. |
-| [focus-guard](https://github.com/Al-Rasin/focus-guard) | Makes Shorts and Reels harder to open and blocks adult content, on Android and macOS. |
-| [seu-matrimony](https://github.com/Al-Rasin/seu-matrimony) | Matrimony app with profiles, matching, chat and calls. Team project. Flutter, Firebase. |
+Flutter · Dart · Kotlin · Jetpack Compose · Riverpod · Firebase (Firestore, Cloud Functions, FCM) · REST · SQLite/Hive · GitHub Actions
 
-Right now I'm working on **Transcribr**, an offline transcription app for iOS and Android that runs whisper.cpp on the phone.
+### Contact
 
-### Tools I use
-
-**Mobile**<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java" height="40">
-
-**Data and backend**<br>
-<img src="https://skillicons.dev/icons?i=firebase,sqlite" height="40">
-
-**Every day**<br>
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman" height="40">
-
-Also: Riverpod, GetX, GoRouter, Hive, REST APIs
-
-### Find me
-
-[Portfolio](https://al-rasin.github.io) · [LinkedIn](https://www.linkedin.com/in/al-rasin-64ab7822a/) · alrasin500@gmail.com
+[Portfolio](https://al-rasin.github.io) · [LinkedIn](https://www.linkedin.com/in/al-rasin-64ab7822a) · [WhatsApp](https://wa.me/8801752591363) · alrasin500@gmail.com
 
 <sub>B.Sc. in CSE, Southeast University · Diploma in Mechatronics, Magura Polytechnic Institute</sub>
