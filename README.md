@@ -1,6 +1,6 @@
 ## Hi, I'm Al Rasin
 
-Flutter & Android developer from Dhaka, Bangladesh. I build mobile apps that real people use, on both the Play Store and the App Store.
+Mobile app developer from Dhaka, Bangladesh. I build mobile apps that real people use, on both the Play Store and the App Store.
 
 ### Currently
 
